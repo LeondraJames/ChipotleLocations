@@ -1,0 +1,2 @@
+# ChipotleLocations
+This is a descriptive and exploratory data analysis project from DataCamp which aims to explore real data on every Chipotle location to identify franchising opportunities. The goal is to scout out the next Chipotle location using interactive maps (ie: leaflet) and external data to compare proposed locations on several important factors, such as proximity to current Chipotle locations, the distribution of the state's population, and the distance from interstates and tourist attractions.
